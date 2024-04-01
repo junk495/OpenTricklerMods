@@ -1,10 +1,10 @@
 some mods of https://github.com/eamars/OpenTrickler
 
 Rear Body Interface:
-easier to clean
-slide solution did not work for me
-powder volume reduction
-powder hopper is removeable for storage
+- easier to clean
+- slide solution did not work for me
+- powder volume reduction
+- powder hopper is removeable for storage
 
 ![screenshot](pics/rear_body_interface_mod01.png)
 
