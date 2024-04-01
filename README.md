@@ -19,7 +19,7 @@
 ### PCB and power supply in shield:
 - PCB included in the shield
 - power supply included in the shield
-- all wired in the shield
+- all wires in the shield
 - one power supply for trickler and scale (!!! 12V !!!)
 
 ![screenshot](pics/A&D_FX_Shield_all_in.png)
