@@ -11,9 +11,15 @@
 ![screenshot](pics/rear_body_interface_mod02.png)
 
 ### Mini12864 mount:
+- fixed place for the display
+- within footprint of the trickler
 
 ![screenshot](pics/mini12864_mount.png)
 
 ### PCB and power supply in shield:
+- PCB included in the shield
+- power supply included in the shield
+- all wired in the shield
+- one power supply for trickler and scale (!!! 12V !!!)
 
 ![screenshot](pics/A&D_FX_Shield_all_in.png)
