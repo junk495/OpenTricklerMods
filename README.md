@@ -10,6 +10,12 @@
 
 ![screenshot](pics/rear_body_interface_mod02.png)
 
+### Front Cover:
+- easier to clean
+- slide solution did not work for me
+
+![screenshot](pics/front_cover_mod01.png)
+
 ### Mini12864 mount:
 - fixed place for the display
 - within footprint of the trickler
