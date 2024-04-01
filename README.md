@@ -9,3 +9,7 @@ Rear Body Interface:
 Mini12864 mount:
 
 ![screenshot](pics/mini12864_mount.png)
+
+PCB and power supply in shield:
+
+![screenshot](pics/A&D_FX_Shield_all_in.png)
