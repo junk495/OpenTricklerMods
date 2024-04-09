@@ -16,7 +16,7 @@
 
 ![screenshot](pics/front_cover_mod01.png)
 
-### Mini12864 mount:
+### Mini12864 (BTT mini 2.0 V1.4) mount:
 - fixed place for the display
 - within footprint of the trickler
 
